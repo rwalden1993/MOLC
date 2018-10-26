@@ -1,0 +1,2 @@
+# MOLC
+A code was designed for solving a k-eigenvalue problem for the multigroup transport equation in two-dimensional geometry.  The method of long characteristics was used for discretization of the group transport equation and the method of power iterations and source iterations were used for solving the system of multigroup transport equations. Two different geometries were used to test the code, one UO2 pincell and a 3x3 grid of pincells made from U02 and MOX fuels.
